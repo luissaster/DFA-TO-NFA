@@ -1,1 +1,1 @@
-# DFA-TO-NFA
+# nfa-to-dfa-converter
